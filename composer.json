@@ -1,5 +1,5 @@
 {
-    "name": "pfbc/pfbc",
+    "name": "lampdev/pfbc-fork",
     "type": "library",
     "description": "Rapid form bulding in PHP",
     "keywords": ["php","html","form"],
